@@ -86,6 +86,11 @@
               <item name="less-test" type="b2602c69:ProjectViewProjectNode" />
               <item name="less" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="less-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="less" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -169,12 +174,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528956072272</updated>
-      <workItem from="1528956073535" duration="855000" />
+      <workItem from="1528956073535" duration="989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="855000" />
+    <option name="totallyTimeSpent" value="989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="27" width="1600" height="873" extended-state="6" />
